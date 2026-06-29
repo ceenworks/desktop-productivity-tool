@@ -2,7 +2,7 @@
 
 A C# desktop productivity tool skeleton for importing task data and generating a simple status report.
 
-This repository is intentionally small. It is meant to show project structure and C# implementation style. The .NET SDK is not installed in the current local environment, so this pass was not compiled locally.
+This repository is intentionally small. It is meant to show project structure and C# implementation style. It has been verified locally with .NET SDK 8.0.422.
 
 ## Features
 
@@ -17,8 +17,6 @@ This repository is intentionally small. It is meant to show project structure an
 - .NET 8 project file
 
 ## Run
-
-After installing the .NET SDK:
 
 ```bash
 dotnet run --project src/Ceenworks.DesktopTool
